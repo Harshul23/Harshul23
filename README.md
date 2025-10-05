@@ -28,7 +28,7 @@ I built a fun **web-based Imposter Game** 🎭 where players guess the odd one o
 ---
 
 ## 🌐 Connect With Me
-📫 [Portfolio](#) | [LinkedIn](#) | [Twitter](#) | [Instagram](#)  
+📫 [Portfolio](#) | [LinkedIn](#) | [Instagram](#)  
 
 ---
 ✨ *"Code. Create. Inspire."*
