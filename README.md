@@ -21,7 +21,7 @@ I built a fun **web-based Imposter Game** 🎭 where players guess the odd one o
 ---
 
 ## 📊 GitHub Stats
-![Harshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshul23&show_icons=true&theme=tokyonight)  
+![Harshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshul23&show_icons=true&theme=tokyonight&count_private=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshul23&layout=compact&theme=tokyonight)  
 
