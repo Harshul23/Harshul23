@@ -61,7 +61,7 @@ I built a fun **web-based Imposter Game** where players guess the odd one out ba
 ---
 
 ## 🌐 Connect With Me
-📫 [Portfolio](#) | [LinkedIn](#) | [Instagram](#)  
+📫 [Portfolio](https://harshul23.github.io/harshul.dev/) | [LinkedIn](#) | [Instagram](#)  
 
 ---
 ✨ *"Code. Create. Inspire."*
