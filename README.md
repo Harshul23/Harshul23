@@ -42,8 +42,9 @@ I built a fun **web-based Imposter Game** where players guess the odd one out ba
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshul23&theme=radical" width="94%" />
+  <img src="https://streak-stats.demolab.com/?user=harshul23&theme=radical" width="94%" />
 </p>
+
 
 <h3>📅 Contribution Graph</h3>
 <p align="center">
