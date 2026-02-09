@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ABOUT ME -->
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table align="center" border="0">
 <tr>
@@ -46,7 +46,7 @@ interests:
   - Game Development
 currently_learning: AI & Machine Learning
 fun_fact: I turn small ideas into
-          engaging experiences ✨
+  engaging experiences ✨
 ```
 
 </td>
@@ -65,20 +65,22 @@ fun_fact: I turn small ideas into
 <br/>
 
 <!-- FEATURED PROJECT -->
-<h2 align="center">🎮 Featured Project: Imposter Game</h2>
+<h2 align="center">Featured Project: Octo - CLI</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Type-Web%20Game-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mode-Multiplayer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Type-CLI%20-blueviolet?style=for-the-badge" />
 </p>
 
 <p align="center">
-  A fun <b>web-based Imposter Game</b> where players guess the odd one out based on categories.<br/>
-  🎯 Multiplayer, lightweight & interactive &nbsp;|&nbsp; 🎲 Custom names & categories &nbsp;|&nbsp; 🎉 Addictive party-style fun
+  Open-source automation tool written in <strong>Go</strong> to streamline local development.
+   <ul class="bullet-list">
+                    <li>Utilized <strong>Docker</strong> for cross-platform containerization and dependency automation.</li>
+                    <li>Designed custom package management logic to handle complex technical stack setups.</li>
+        </ul>
 </p>
 
-<p align="center"><i>"This project reflects my love for turning small ideas into engaging experiences."</i></p>
+<p align="center"><i>"Now local execution is automated from detection to deployment"</i></p>
 
 <br/>
 
@@ -87,20 +89,20 @@ fun_fact: I turn small ideas into
 <br/>
 
 <!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<h4 align="center">⚡ Languages</h4>
-<p align="center">
+<span align="left">Languages</span>
+<span align="right">Frameworks & Styling</span>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,java,html,css,python&theme=dark" />
-</p>
-
-<h4 align="center">🎨 Frameworks & Styling</h4>
-<p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs&theme=dark" />
 </p>
 
-<h4 align="center">🔧 Tools & Platforms</h4>
-<p align="center">
+<p align="right">
+</p>
+
+<h4 align="left">Tools & Platforms</h4>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel&theme=dark" />
 </p>
 
@@ -111,7 +113,7 @@ fun_fact: I turn small ideas into
 <br/>
 
 <!-- GITHUB TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">GitHub Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshul23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" alt="Trophies" />
 </p>
@@ -123,7 +125,7 @@ fun_fact: I turn small ideas into
 <br/>
 
 <!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/harshul23">
@@ -147,7 +149,7 @@ fun_fact: I turn small ideas into
 <br/>
 
 <!-- CONTRIBUTION GRAPH -->
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 <p align="center">
   <a href="https://github.com/harshul23">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshul23&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&area_color=A960FF&hide_border=true" alt="Contribution Graph" />
@@ -161,7 +163,7 @@ fun_fact: I turn small ideas into
 <br/>
 
 <!-- PROFILE SUMMARY CARDS -->
-<h2 align="center">💡 Profile Summary</h2>
+<h2 align="center">Profile Summary</h2>
 <p align="center">
   <a href="https://github.com/harshul23">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshul23&theme=tokyonight" width="95%" alt="Profile Details" />
@@ -186,7 +188,7 @@ fun_fact: I turn small ideas into
 <br/>
 
 <!-- CONNECT WITH ME -->
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://harshul23.github.io/harshul.dev/" target="_blank">
@@ -206,14 +208,3 @@ fun_fact: I turn small ideas into
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- FOOTER -->
-<br/>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" width="100%" />
-</p>
