@@ -1,4 +1,5 @@
-# Hi, I'm Harshul
+<p><img src="./Component 2.png" /></p>
+
 *"Designing beyond limits, coding beyond borders."*  
 
 ---
